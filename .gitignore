@@ -4,4 +4,3 @@ __pycache__/
 .DS_Store
 *.pkl
 *.ipynb_checkpoints
-fine_tuned_bert_model_hf/
